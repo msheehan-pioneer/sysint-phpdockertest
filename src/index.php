@@ -12,7 +12,7 @@
       <form class="greetingForm" action="index.php" method="post">
         <label for="who">Say hello to</label>
         <input type="text" name="who">
-        <input type="submit" name="greet" value="Say BonjourV1.6">
+        <input type="submit" name="greet" value="Say BonjourV1.7">
       </form>
     <? } ?>
   </body>
